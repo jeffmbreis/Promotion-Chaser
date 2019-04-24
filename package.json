@@ -1,0 +1,25 @@
+{
+  "name": "promotion-chaser",
+  "version": "1.0.0",
+  "description": "Robot responsible for new promotions search",
+  "main": "index.js",
+  "dependencies": {
+    "crawler": "^1.2.1",
+    "node-cron": "^2.0.3",
+    "puppeteer": "^1.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffmbreis/Promotion-Chaser.git"
+  },
+  "author": "Jeffersn Reis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffmbreis/Promotion-Chaser/issues"
+  },
+  "homepage": "https://github.com/jeffmbreis/Promotion-Chaser#readme"
+}
