@@ -4,7 +4,6 @@
   "description": "Robot responsible for new promotions search",
   "main": "index.js",
   "dependencies": {
-    "crawler": "^1.2.1",
     "node-cron": "^2.0.3",
     "puppeteer": "^1.14.0"
   },
